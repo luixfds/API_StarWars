@@ -7,7 +7,7 @@ Pegando dados de uma API externa com Python
 
 
 
-[Libs]
+[Bibliotecas]
 - json
 - requests
 
